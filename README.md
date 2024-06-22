@@ -108,6 +108,9 @@ Deleting tags
   To delete (all) artwork:    --artwork REMOVE_ALL
   manually removal:           --manualAtomRemove "moov.udta.meta.ilst.ATOM"
 
+Others:
+--overWrite                    Over-write the selected audio file (it will not create temp file everytime you run it)
+
 More detailed iTunes help is available with AtomicParsley --longhelp
 Setting reverse DNS forms for iTunes files: see --reverseDNS-help
 Setting 3gp assets into 3GPP & derivative files: see --3gp-help
